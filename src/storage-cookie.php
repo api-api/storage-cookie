@@ -2,7 +2,7 @@
 /**
  * Storage loader.
  *
- * @package APIAPIStorageCookie
+ * @package APIAPI\Storage_Cookie
  * @since 1.0.0
  */
 
